@@ -50,7 +50,7 @@ Data parameters:
 You can also define in meta tags:
 
 ```html
-<meta name="gc:base" content="http://lab.lepture.com/github-cards/cards/">
+<meta name="gc:base" content="http://lab.lepture.com/github-cards/">
 <meta name="gc:theme" content="medium">
 <meta name="gc:client-id" content="client id string">
 <meta name="gc:client-secret" content="client secret string">
@@ -69,7 +69,7 @@ GitHub Cards is available on jsdelivr now. Use widget hosted on jsdelivr:
 
 ```html
 <div class="github-card" data-user="lepture" data-repo="github-cards"></div>
-<script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 ```
 
 ## Contribution
